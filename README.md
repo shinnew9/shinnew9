@@ -64,11 +64,14 @@ Here are some ideas to get you started:
   <!--PyTorch-->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
   <!--Tensorflow-->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=PyTorch&logoColor=white"/>
   <!--Scikit-learn-->
+  <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=flat-square&logo=Sklearn&logoColor=white"/>
   <!--Keras-->
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/>
   <!--NLP Libraries-->
-
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spaCy&logoColor=white"/>
+  
   ### DB & Infra
   <!--PostgreSSQL-->
   <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white">
@@ -76,7 +79,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
   <!--Oracle--> 
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
-
   <!--Spark-->
   <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=Spark&logoColor=white">
 
@@ -92,32 +94,61 @@ Here are some ideas to get you started:
 
   ### Repositories
   <!--Github-->
-  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">
   <!--DockerHub -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker%20IDE&logoColor=white">
   <!--HuggingFace -->
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=Docker%20IDE&logoColor=white">
   
-  ### Research Tools
+  
+  ## ✨ Outside of Code
+  I enjoy thinking deeply, writing ML notes, taking photos ☕📸, and exploring ideas like “How do humans make sense of the world—and how should AI learn from that?”
+  
+  
+  ## 📫 Let’s Connect
+  <!-- Gmail -->
+  <a href="mailto:yoojinshin9918@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/shinnew9">
+    <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  
+  <!--LinkedIn-->
+  <a href="https://www.linkedin.com/in/yoojinshinew99/">
+    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=LinkedIn&logoColor=white"/>
+  </a>
+  
+  
+  
+
+
+
+</div>
+
+
+  
+ <!-- blank 
+  ### Research SKills
   Experimentation  <br>
   Model evaluation <br>
   Visualization <br>
   Technical writing <br>
 
-</div>
 
+ 
+  ## 🤔 Github Stats
   
-## 🤔 Github Stats
-<div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=shinnew9&show_icons=true&theme=transparent" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinnew9&layout=compact&theme=transparent" />
   </a>
-</div>
-  
- <!-- blank 
+
+ 
   ## 🌱 Background Snapshot
   🎓 MS in Computer Science — Lehigh University <br> 
   🎓 MS in Computer Science — Hanyang University <br>
@@ -127,14 +158,7 @@ Here are some ideas to get you started:
   
   
   
-  ## ✨ Outside of Code
-  I enjoy thinking deeply, writing ML notes, taking photos ☕📸, and exploring ideas like “How do humans make sense of the world—and how should AI learn from that?”
   
-  
-  
-  ## 📫 Let’s Connect
-  - GitHub: [shinnew9](https://github.com/shinnew9)
-  - [LinkedIn](https://www.linkedin.com/in/yoojinshinew99/) / [Portfolio]()
   -->
 
 
