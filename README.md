@@ -106,7 +106,7 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
   </picture>
   
-  
+ <!-- blank 
   ## 🌱 Background Snapshot
   🎓 MS in Computer Science — Lehigh University <br> 
   🎓 MS in Computer Science — Hanyang University <br>
@@ -124,6 +124,6 @@ Here are some ideas to get you started:
   ## 📫 Let’s Connect
   - GitHub: [shinnew9](https://github.com/shinnew9)
   - [LinkedIn](https://www.linkedin.com/in/yoojinshinew99/) / [Portfolio]()
-  -
+  -->
 </div>
 
