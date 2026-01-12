@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<div> 
+<div>
   <!-- Body-->
   
   ## 👀 About Me
@@ -29,7 +29,6 @@ Here are some ideas to get you started:
   I’m an AI Engineer & Data Scientist with a background that bridges Computer Science, Psychology, and Communication.
   Currently, I’m a Master’s student in Computer Science at Lehigh University, where I work on LLM-based systems and multimodal AI with a focus on human-centered intelligence. <br>
   I’m particularly interested in how language, cognition, and decision-making are reflected in data—and how we can build AI systems that align with the way humans actually think and communicate.
-  
   
   
   ## 🔍 What I Work On
@@ -99,27 +98,24 @@ Here are some ideas to get you started:
   <!--HuggingFace -->
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=Docker%20IDE&logoColor=white">
   
+  ### Research Tools
+  Experimentation  <br>
+  Model evaluation <br>
+  Visualization <br>
+  Technical writing <br>
+
+</div>
 
   
-  - Research Tools: Experimentation, model evaluation, visualization, technical writing
-  
-    
-  
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinnew9)](https://github.com/anuraghazra/github-readme-stats)
-    
-  [![Yoojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinnew9)](https://github.com/anuraghazra/github-readme-stats)
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-  </picture>
+## 🤔 Github Stats
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=shinnew9&show_icons=true&theme=transparent" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinnew9&layout=compact&theme=transparent" />
+  </a>
+</div>
   
  <!-- blank 
   ## 🌱 Background Snapshot
@@ -140,5 +136,5 @@ Here are some ideas to get you started:
   - GitHub: [shinnew9](https://github.com/shinnew9)
   - [LinkedIn](https://www.linkedin.com/in/yoojinshinew99/) / [Portfolio]()
   -->
-</div>
+
 
