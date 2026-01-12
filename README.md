@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   Currently, I’m a Master’s student in Computer Science at Lehigh University, where I work on LLM-based systems and multimodal AI with a focus on human-centered intelligence. <br>
   I’m particularly interested in how language, cognition, and decision-making are reflected in data—and how we can build AI systems that align with the way humans actually think and communicate.
   
+  </br>
   
   ## 🔍 What I Work On
   🤖 LLM-based AI Agents <br>
@@ -44,6 +45,7 @@ Here are some ideas to get you started:
   🧩 Human-Centered AI <br>
   Projects informed by psychology and communication theory, aiming for interpretability, alignment, and real impact.
   
+  </br>
   
   ## 🛠 Tech Stack 
   ### Language
@@ -100,10 +102,14 @@ Here are some ideas to get you started:
   <!--HuggingFace -->
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=Docker%20IDE&logoColor=white">
   
+  </br>
+  </br>
   
   ## ✨ Outside of Code
   Outside of code, I enjoy coffee ☕, cooking 🍳, working out 💪, and photography 📸.
   
+
+  </br>
   
   ## 📫 Let’s Connect
   <!-- Gmail -->
