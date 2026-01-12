@@ -117,11 +117,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
 
-  <!-- GitHub -->
-  <a href="https://github.com/shinnew9">
-    <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  
   <!--LinkedIn-->
   <a href="https://www.linkedin.com/in/yoojinshinew99/">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=LinkedIn&logoColor=white"/>
