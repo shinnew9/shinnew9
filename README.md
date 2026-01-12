@@ -13,17 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <!-- Header-->
+<div>
+  
+  <!--Header-->
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
   
 </div>
 
+
 <div> 
   <!-- Body-->
-  ## 👋 Hi, I’m Yoojin Shin
+  
+  ## 👀 About Me
+  👋 Hi, I’m Yoojin Shin <br>
   I’m an AI Engineer & Data Scientist with a background that bridges Computer Science, Psychology, and Communication.
-  Currently, I’m a Master’s student in Computer Science at Lehigh University, where I work on LLM-based systems and multimodal AI with a focus on human-centered intelligence.
+  Currently, I’m a Master’s student in Computer Science at Lehigh University, where I work on LLM-based systems and multimodal AI with a focus on human-centered intelligence. <br>
   I’m particularly interested in how language, cognition, and decision-making are reflected in data—and how we can build AI systems that align with the way humans actually think and communicate.
   
   
@@ -47,7 +51,11 @@ Here are some ideas to get you started:
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!--Java-->
-  <img src="https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
+  
+  <!--
+  <img src="https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"> -->
+  
   <!--R -->
   
   <!--SQL -->
@@ -64,26 +72,33 @@ Here are some ideas to get you started:
 
   ### DB & Infra
   <!--PostgreSSQL-->
-  <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white">
   <!--MongoDB-->
-  <img src="https://img.shields.io/badge/MongoDB-F80000?style=for-the-badge&logo=MongoDB&logoColor=white">
-  <!--Oracle-->
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
+  <img src="https://img.shields.io/badge/MongoDB-F80000?style=flat-square&logo=MongoDB&logoColor=white">
+  <!--Oracle--> 
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
 
-  <!--Sparl-->
-  <img src="https://img.shields.io/badge/spark-232F3E?style=for-the-badge&logo=Spark&logoColor=white">
+  <!--Spark-->
+  <img src="https://img.shields.io/badge/spark-232F3E?style=flat-square&logo=Spark&logoColor=white">
 
+  ### Development Environment
   <!--VsCode-->
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white">
   <!--PyCharm-->
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=PyCharm%20IDE&logoColor=white">
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm%20IDE&logoColor=white">
+  <!-- Jupyter Notebook -->
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=JupyterDocker%20IDE&logoColor=white">
   <!--Eclipse -->
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white">
 
+  ### Repositories
   <!--Github-->
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
   <!--DockerHub -->
-  <img src="https://img.shields.io/badge/Docker-2C2255?style=for-the-badge&logo=Docker%20IDE&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker%20IDE&logoColor=white">
+  <!--HuggingFace -->
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=Docker%20IDE&logoColor=white">
+  
 
   
   - Research Tools: Experimentation, model evaluation, visualization, technical writing
