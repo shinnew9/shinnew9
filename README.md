@@ -1,18 +1,3 @@
-<!--
-**shinnew9/shinnew9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div>
   
   <!--Header-->
@@ -29,7 +14,8 @@ Here are some ideas to get you started:
   I’m an AI Engineer & Data Scientist with a background that bridges Computer Science, Psychology, and Communication.
   Currently, I’m a Master’s student in Computer Science at Lehigh University, where I work on LLM-based systems and multimodal AI with a focus on human-centered intelligence. <br>
   I’m particularly interested in how language, cognition, and decision-making are reflected in data—and how we can build AI systems that align with the way humans actually think and communicate.
-  
+
+  </br>
   
   ## 🔍 What I Work On
   🤖 LLM-based AI Agents <br>
@@ -44,6 +30,7 @@ Here are some ideas to get you started:
   🧩 Human-Centered AI <br>
   Projects informed by psychology and communication theory, aiming for interpretability, alignment, and real impact.
   
+  </br>
   
   ## 🛠 Tech Stack 
   ### Language
@@ -100,20 +87,21 @@ Here are some ideas to get you started:
   <!--HuggingFace -->
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=Docker%20IDE&logoColor=white">
   
+  </br>
+  </br>
+  
   
   ## ✨ Outside of Code
   Outside of code, I enjoy coffee ☕, cooking 🍳, working out 💪, and photography 📸.
+
   
+  </br>
+
   
   ## 📫 Let’s Connect
   <!-- Gmail -->
   <a href="mailto:yoojinshin9918@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
-  </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/shinnew9">
-    <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   
   <!--LinkedIn-->
