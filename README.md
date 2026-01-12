@@ -59,4 +59,4 @@ I enjoy thinking deeply, writing ML notes, taking photos ☕📸, and exploring 
 
 ## 📫 Let’s Connect
 - GitHub: [shinnew9](https://github.com/shinnew9)
-- LinkedIn[https://www.linkedin.com/in/yoojinshinew99/] / Portfolio 
+- [LinkedIn](https://www.linkedin.com/in/yoojinshinew99/) / Portfolio 
