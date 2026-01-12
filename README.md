@@ -21,7 +21,7 @@ I’m particularly interested in how language, cognition, and decision-making ar
 
 
 
-### 🔍 What I Work On
+## 🔍 What I Work On
 🤖 LLM-based AI Agents <br>
 Designing and evaluating therapist-style AI systems that provide structured feedback and skill metrics for novice counselors.
 
@@ -35,7 +35,7 @@ Customer satisfaction prediction, candidate ranking, segmentation, and data-driv
 Projects informed by psychology and communication theory, aiming for interpretability, alignment, and real impact.
 
 
-### 🛠 Tech Stack 
+## 🛠 Tech Stack 
 - Languages: Python, SQL, Java, R
 - ML / DL: PyTorch, TensorFlow, Scikit-learn, NLP libraries
 - Data & Infra: PostgreSQL, MongoDB, Spark, Docker
@@ -43,7 +43,7 @@ Projects informed by psychology and communication theory, aiming for interpretab
 
 
 
-### 🌱 Background Snapshot
+## 🌱 Background Snapshot
 🎓 MS in Computer Science — Lehigh University <br> 
 🎓 MS in Computer Science — Hanyang University <br>
 🎓 BA in Psychology & Communication — University of Utah <br>
@@ -52,11 +52,11 @@ I’ve worked across academia, industry, and research labs, and I enjoy translat
 
 
 
-### ✨ Outside of Code
+## ✨ Outside of Code
 I enjoy thinking deeply, writing ML notes, taking photos ☕📸, and exploring ideas like “How do humans make sense of the world—and how should AI learn from that?”
 
 
 
-### 📫 Let’s Connect
+## 📫 Let’s Connect
 - GitHub: [shinnew9](https://github.com/shinnew9)
 - LinkedIn[https://www.linkedin.com/in/yoojinshinew99/] / Portfolio 
