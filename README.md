@@ -102,7 +102,7 @@ Here are some ideas to get you started:
   
   
   ## ✨ Outside of Code
-  I enjoy thinking deeply, writing ML notes, taking photos ☕📸, and exploring ideas like “How do humans make sense of the world—and how should AI learn from that?”
+  Outside of code, I enjoy coffee ☕, cooking 🍳, working out 💪, and photography 📸.
   
   
   ## 📫 Let’s Connect
@@ -121,10 +121,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=LinkedIn&logoColor=white"/>
   </a>
   
-  
-  
-
-
 
 </div>
 
