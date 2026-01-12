@@ -44,25 +44,52 @@ Here are some ideas to get you started:
   
   ## 🛠 Tech Stack 
   ### Language
-  - Languages: Python,Java, R,  SQL, 
-  - ML / DL: PyTorch, TensorFlow, Scikit-learn, NLP libraries
-  - Data & Infra: PostgreSQL, MongoDB, Spark, Docker
-  - Research Tools: Experimentation, model evaluation, visualization, technical writing
-  <img src="https://img.shields.io/badge/Python-F7DF1E.svg?&style=for-the-badge&logo=Python&logoColor=white">
+  <!--Python-->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <!--Java-->
   <img src="https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=Java&logoColor=white">
+  <!--R -->
   
+  <!--SQL -->
+
+  
+  ### ML / DL
+  <!--PyTorch-->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+  <!--Tensorflow-->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+  <!--Scikit-learn-->
+  <!--Keras-->
+  <!--NLP Libraries-->
+
+  ### DB & Infra
+  <!--PostgreSSQL-->
   <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+  <!--MongoDB-->
   <img src="https://img.shields.io/badge/MongoDB-F80000?style=for-the-badge&logo=MongoDB&logoColor=white">
+  <!--Oracle-->
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
-  
+
+  <!--Sparl-->
   <img src="https://img.shields.io/badge/spark-232F3E?style=for-the-badge&logo=Spark&logoColor=white">
-  
+
+  <!--VsCode-->
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+  <!--PyCharm-->
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=PyCharm%20IDE&logoColor=white">
+  <!--Eclipse -->
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
-  
+
+  <!--Github-->
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <!--DockerHub -->
   <img src="https://img.shields.io/badge/Docker-2C2255?style=for-the-badge&logo=Docker%20IDE&logoColor=white">
+
+  
+  - Research Tools: Experimentation, model evaluation, visualization, technical writing
+  
+    
+  
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinnew9)](https://github.com/anuraghazra/github-readme-stats)
     
