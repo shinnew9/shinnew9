@@ -74,12 +74,12 @@ Here are some ideas to get you started:
   <!--PostgreSSQL-->
   <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white">
   <!--MongoDB-->
-  <img src="https://img.shields.io/badge/MongoDB-F80000?style=flat-square&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
   <!--Oracle--> 
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
 
   <!--Spark-->
-  <img src="https://img.shields.io/badge/spark-232F3E?style=flat-square&logo=Spark&logoColor=white">
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=Spark&logoColor=white">
 
   ### Development Environment
   <!--VsCode-->
