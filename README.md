@@ -101,14 +101,15 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker%20IDE&logoColor=white">
   <!--HuggingFace -->
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=Docker%20IDE&logoColor=white">
+
   
   </br>
   </br>
+
   
   ## ✨ Outside of Code
   Outside of code, I enjoy coffee ☕, cooking 🍳, working out 💪, and photography 📸.
   
-
   </br>
   
   ## 📫 Let’s Connect
@@ -121,9 +122,22 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/yoojinshinew99/">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=LinkedIn&logoColor=white"/>
   </a>
-  
+
+
+  </br>
+  </br>
+
+  ## ⭐ Featured Project
+  ### Potential Talents — LLM-Based Semantic Candidate Ranking
+  - Built an end-to-end **LLM + RAG + FAISS** pipeline for semantic candidate matching
+  - Fine-tuned an instruction-tuned LLM using **LoRA** for efficient domain adaptation
+  - Designed a retrieval-and-generation architecture beyond keyword-based search
+    
+  👉 [View Project](https://github.com/shinnew9/Apziva-Projects/tree/main/Project3-PotentialTalents)
+
 
 </div>
+
 
 
   
