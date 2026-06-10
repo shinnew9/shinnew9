@@ -27,11 +27,9 @@ Here are some ideas to get you started:
   # Hi! I'm Yoojin Shin 👋
   <br>
   I’m an AI Engineer, Data Scientist, and MS Computer Science student at Lehigh University. 
-  My background bridges **Computer Science, Psychology, and Communication**, and my research interests center on building AI systems that understand, evaluate, and support human behavior, language, cognition, and decision-making.
-  Currently, I work on **human-centered AI, LLM evaluation, multimodal learning, and healthcare-oriented AI systems**. I am especially interested in how AI can support high-stakes human judgment in domains such as counseling, mental health, 
-  accessibility, mobility, and human-machine interaction.
+  My background bridges <b>Computer Science, Psychology, and Communication</b>, and my research interests center on building AI systems that understand, evaluate, and support human behavior, language, cognition, and decision-making.
+  Currently, I work on human-centered AI, LLM evaluation, multimodal learning, and healthcare-oriented AI systems**. I am especially interested in how AI can support high-stakes human judgment in domains such as counseling, mental health, accessibility, mobility, and human-machine interaction.
   Recently, I have also been expanding toward **Physical AI and embodied human-centered systems**, including VR-based research on human movement, gait, and interaction under the supervision of Prof. Rui Hua at Lehigh University.
-  
   </br>
   
   ## 🔍 What I Work On
