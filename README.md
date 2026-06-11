@@ -24,34 +24,76 @@ Here are some ideas to get you started:
   ## Hi! I'm Yoojin Shin 👋
   <br>
   I’m an AI Engineer, Data Scientist, and MS Computer Science student at Lehigh University. <br>
-  My background bridges <b>Computer Science, Psychology, and Communication</b>, and my research interests center on building AI systems that understand, evaluate, and support human behavior, language, cognition, and decision-making.
+  My background spans <b>Computer Science, Psychology, and Communication</b>, and my research interests focus on developing AI systems that understand, evaluate, and support human behavior, language, cognition, and decision-making.
   Currently, I work on <b>LLM evaluation and counseling-oriented AI systems</b> under the supervision of Prof. Mooi Choo Chuah, and exploring <b>healthcare-oriented AI systems using behavioral and public health data</b> with Prof. Hsuan-Wei “Wayne” Lee.
   I am also expanding toward <b>Physical AI and embodied human-centered systems</b>, including VR-based research on human movement, gait, and interaction under the supervision of Prof. Rui Hua. 
   Overall, my current research direction lies at the intersection of: <b>Human-Centered AI × LLM Evaluation × Healthcare AI × Physical AI</b>
   
-  ## 🔍 What I Work On
-  🤖 LLM-based AI Agents <br>
-  Designing and evaluating therapist-style AI systems that provide structured feedback and skill metrics for novice counselors.
+  ## Research Interests
+  ### Human-Centered AI & LLM Evaluation 
+  I design and evaluate LLM-based systems that interact with people in socially meaningful contexts. My current work includes an LLM-based counseling evaluation system that compares model-generated responses and collects structured human ratings across 
+  dimensions such as empathy, cultural appropriateness, and counseling quality.
+
+  ### AI for Healthcare, Counseling, and Human Behavior
+  I am interested in how AI systems can assist human experts, patients, counselors, and researchers by providing interpretable, reliable, and context-aware support.
+
+  ### Physical AI, VR, and Human Movement
+  I am currently expanding my research toward physical and embodied AI systems, especially in VR-based environments for studying human movement, gait, rehabilitation, and human-machine interaction. This direction connects my previous work on mobility 
+  data and accessibility with new interests in sensing, simulation, and embodied intelligence.
+
+  ### Multimodal Learning
+  I have worked on projects involving text, audio, image/video, GPS trajectory, and human behavioral data. I am interested in building models that integrate multiple modalities to better understand human states, actions, and decisions.
   
-  🧠 NLP & Multimodal Learning <br>
-  Natural language processing, representation learning, and joint modeling of text, audio, and visual signals.
   
-  📊 Applied Machine Learning <br>
-  Customer satisfaction prediction, candidate ranking, segmentation, and data-driven decision systems using real-world industry data.
-  
-  🧩 Human-Centered AI <br>
-  Projects informed by psychology and communication theory, aiming for interpretability, alignment, and real impact.
+  ## What I Work On
+  - <b>LLM-based AI Agents</b>  
+  Building and evaluating AI systems for counseling, feedback generation, and human-centered decision support.
+
+  - <b>Human-AI Evaluation</b>  
+  Designing evaluation frameworks, human rating interfaces, and structured metrics for assessing AI behavior.
+
+  - <b>Healthcare & Accessibility AI</b>  
+  Analyzing behavioral, mobility, and healthcare-related data to understand human needs and improve support systems.
+
+  - <b>hysical AI / VR / Human Movement</b>  
+  Exploring embodied AI systems through VR-based human movement and gait-related research.
+
+  - <b>Applied Machine Learning</b>  
+  Building real-world ML pipelines for prediction, ranking, segmentation, anomaly detection, and recommendation.
   
   </br>
+
+  ## Selected Research & Projects
+  ### LLM-Based Counseling Evaluation System
+  A web-based evaluation system for comparing base and fine-tuned LLM responses in Korean counseling scenarios. The project focuses on human-centered evaluation, cultural appropriateness, empathy, and counseling quality. <br>
+  <b>Keywords:</b> LLM evaluation, counseling AI, human ratings, Streamlit, survey design, cultural AI
+
+  ### VR-Based Human Movement & Physical AI Research
+  Research collaboration with Prof. Rui Hua at Lehigh University, exploring VR-based environments for studying human movement, gait, and human-machine interaction. <br>
+  <b>Keywords:</b> Physical AI, VR, gait analysis, human movement, embodied interaction, healthcare AI
+
+  ### Mobility & Accessibility Analysis with GPS Trajectory Data
+  Analyzed five years of GPS trajectory data from wheelchair and non-wheelchair users to study mobility patterns, accessibility, and life satisfaction. This work involved stay-point detection, spatio-temporal clustering, motif extraction, regression 
+  analysis, and visualization. <br>
+  <b>Keywords:</b> GPS trajectory, accessibility, mobility patterns, stay-point detection, spatial data science
+
+  ### Multimodal AI Research
+  Designed and experimented with integrated encoder architectures for text, audio, and visual modalities to support joint representation learning.
+  <b>Keywords:</b> multimodal learning, representation learning, NLP, audio, vision
+
+  ### LLM-Based Semantic Candidate Ranking
+  Built an end-to-end semantic candidate ranking pipeline using retrieval, vector search, and LLM-based adaptation.
+  <b>Keywords:</b> RAG, FAISS, LangChain, LoRA, Learning-to-Rank, RankNet
+
   
-  ## 🛠 Tech Stack 
+  ## Tech Stack 
   ### Language
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!--Java-->
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
   
-  <!--
+  <!-- 
   <img src="https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"> -->
   
   <!--R -->
@@ -103,11 +145,17 @@ Here are some ideas to get you started:
   </br>
   </br>
 
+  ## Current Direction
+  My long-term goal is to build AI systems that are not only technically capable, but also aligned with human cognition, communication, physical behavior, and real-world needs. I am especially excited about research at the intersection of:
+  <b>Human-Centered AI × LLM Evaluation × Healthcare AI × Physical AI</b> <br> I see this direction as a bridge between my past work in language, psychology, mobility, and accessibility, and my current expansion into VR-based human movement and embodied 
+  AI systems.
+  
   
   ## ✨ Outside of Code
   Outside of code, I enjoy coffee ☕, cooking 🍳, working out 💪, and photography 📸.
   
   </br>
+
   
   ## 📫 Let’s Connect
   <!-- Gmail -->
