@@ -14,23 +14,20 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
-  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97) 
 </div>
 
 
-<!-- <div>
-  <!-- Body-->
-  
+<div>
+  <!-- Body-->  
   # Hi! I'm Yoojin Shin 👋
   <br>
   I’m an AI Engineer, Data Scientist, and MS Computer Science student at Lehigh University. 
   My background bridges <b>Computer Science, Psychology, and Communication</b>, and my research interests center on building AI systems that understand, evaluate, and support human behavior, language, cognition, and decision-making.
-  Currently, I work on human-centered AI, LLM evaluation, multimodal learning, and healthcare-oriented AI systems**. I am especially interested in how AI can support high-stakes human judgment in domains such as counseling, mental health, accessibility, mobility, and human-machine interaction.
+  Currently, I work on <b>human-centered AI, LLM evaluation, multimodal learning, and healthcare-oriented AI systems</b>. I am especially interested in how AI can support high-stakes human judgment in domains such as counseling, mental health, accessibility, mobility, and human-machine interaction.
   Recently, I have also been expanding toward **Physical AI and embodied human-centered systems**, including VR-based research on human movement, gait, and interaction under the supervision of Prof. Rui Hua at Lehigh University.
-  </br>
+  <br>
   
   ## 🔍 What I Work On
   🤖 LLM-based AI Agents <br>
